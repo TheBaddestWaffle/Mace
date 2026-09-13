@@ -1,0 +1,1 @@
+Yooo sup guys! This is officially version of Mace Linux 0.0.1a! It's noting too special, right now this is just a repackaged arch clone. I have a private repository server set up on my home network while I begin true development of package deployment and graphical interfaces and stuff. Anyways, cool stuff, later dudes!
